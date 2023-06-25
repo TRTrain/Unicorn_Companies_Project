@@ -1,17 +1,15 @@
-# Unicorn Companies Project 🦄:office:
+# Unicorn Companies SQL Project 🦄:office:
 
 ## Objective 📍
 Find out how many companies reached a valuation of over $1 billion across different industries between 2019 and 2021
 
-## Dataset 📜
-This dataset shows data about unicorn companies worth over $1 billion
-### Reference 📄
+## Reference 📄
 Premium DataCamp Project :
 [Analyzing Unicorn Companies](https://app.datacamp.com/learn/projects/1531)
 
 ## Database 🗃
-PostgreSQL
-
+PostgreSQL <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                    
 ## Strategy and Solution 🔎
 There are several ways to produce this output, with one approach involving the use of three queries, of which two are common table expressions (CTEs)
 
